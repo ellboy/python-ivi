@@ -32,3 +32,5 @@ from .rigolDP832A import rigolDP832A
 # DP1000
 from .rigolDP1116A import rigolDP1116A
 from .rigolDP1308A import rigolDP1308A
+
+from .rigolDS1054 import rigolDS1054
